@@ -14,6 +14,10 @@ This is a simple web application that allows users to take a coding quiz and sav
 - Option to save initials and score.
 - Highscores page to view saved scores.
 
+## Deployment
+
+The deployed application is available at the following URL: <>
+
 ## Getting Started
 
 1. Clone the repository:
@@ -34,7 +38,4 @@ View highscores on the "Highscores" page.
 ## Customization
 Modify the questions in the questions.js file to add or change quiz content.
 Adjust the timer duration in the logic.js file.
-
-## Deployment
-The deployed application is available at the following URL: <>
 ```
