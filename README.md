@@ -23,7 +23,7 @@ The deployed application is available at the following URL: <>
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/MiriamCristinaZ/Code-Quiz
 Open the project in your preferred code editor.
 Customize questions in the questions.js file.
 Open index.html in a web browser to start the app.
